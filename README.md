@@ -9,6 +9,7 @@ When I am not coding you will find me in the mountains doing canyoning, running 
 My main areas of interest:
 - Mathematical Engineering, e.g.: Operations Research, Process Control, Numerical Simulation.
 - Artificial Intelligence: both the Machine Learning Engineering and Data Science part.
+- Data Engineering: building robust and reliable data processing pipelines.
 - Software Engineering: in order to have some good foundations to build upon.
 
 <!---
