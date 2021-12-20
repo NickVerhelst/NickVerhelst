@@ -6,13 +6,19 @@ The thing I like about building software is that it is always one big puzzle tha
 
 <h2 align="left"> :mega: About Me:</h2>
 
-- :computer: Currently designing and building intelligent data-driven solutions on Microsoft Azure
-- :zap: Specialized in defining and building AI solutions and data processing pipelines
-- :robot: A strong advocate of software quality and the DevOps mindset
-- :mag_right: Currently exploring the full web development stack (HTML/CSS/JS/Angular)
-- :rocket: My mind is always busy as I like to 
-- :microscope: I am a strong conceptual thinker and scientist by training
-- :running: In my spare time an active runner and canyoning instructor
+:computer: Currently designing and building intelligent data-driven solutions on Microsoft Azure
+
+:zap: Specialized in defining and building AI solutions and data processing pipelines
+
+:robot: A strong advocate of software quality and the DevOps mindset
+
+:mag_right: Currently exploring the full web development stack (HTML/CSS/JS/Angular)
+
+:rocket: Always curious to find out how everything works "under the hood"
+
+:microscope: I am a strong conceptual thinker and scientist by training
+
+:running: In my spare time an active runner and canyoning instructor
 
 <a href="https://www.linkedin.com/in/verhelst-nick/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="https://www.linkedin.com/in/verhelst-nick/" width="30" height="30"/> </a>
 
